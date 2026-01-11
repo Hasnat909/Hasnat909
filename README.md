@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hasnat909/Hasnat909/main/MyGithubBg.png" alt="Hasnat Ahmad Banner" />
+</p>
+
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Hasnat Ahmad</h1>
 <h3 align="center">Full Stack .NET Developer | ASP.NET Core | React | Angular</h3>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hasnat909/Hasnat909/main/MyGithubBg.png" alt="Hasnat Ahmad Banner" />
+  <img src="https://raw.githubusercontent.com/Hasnat909/Hasnat909/main/MyGithubBanner.png" alt="Hasnat Ahmad Banner" />
 </p>
 
 <!-- Header Section -->
